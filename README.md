@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @WalterQuartey
 - 👀 I’m interested in Ai, Data Science and Full Stack Development
-- 🌱 I’m currently learning React, Javascript, Python, Python R, AWS.
+- 🌱 I’m currently learning React, Javascript, Python, R, AWS.
 - 💞️ I’m looking to collaborate on any of the above topics.
 - 📫 How to reach me via microsoft teams "walter Q"
 
